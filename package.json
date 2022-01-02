@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "Echo 'build script executed'"
+  },
   "dependencies": {
     "axios": "^0.24.0",
     "gemini-server": "^1.5.0"
