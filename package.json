@@ -1,6 +1,10 @@
 {
+  "name": "gemini-app",
+  "version": "1.0.0",
+  "description": "This app is made as a testing ground for alternative protocols",
+  "main": "server.js",
   "scripts": {
-    "build": "Echo 'build script executed'"
+    "start": "node ."
   },
   "dependencies": {
     "axios": "^0.24.0",
